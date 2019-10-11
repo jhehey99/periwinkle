@@ -1,0 +1,45 @@
+Pagka login ng client
+i-check kung naka pag mbes na sya
+pag hindi pa pasagutin siya ng mbes
+
+
+then another mula sa consultant side
+pag ginusto ng consultant na magsagot si client ng mbes ulit
+magkakanotif kay client na magsagot ng mbes
+
+TODO:
+pagka view ni consultant sa account ni client
+-> get rin ung status kung allowed ba sya o hindi
+
+
+TODO: REGISTRATION PAG NAG REGISTER UNG LOADING KUNYARE OR SOMETHING BAGO MAG MESSAGE THEN EXIT PATI LOGIN
+TODO: UNG LEGEND NUNG SCALE
+
+NASESAVE UNG MBES SA DATABASE PAGKATAPOS SAGUTAN DITO MO NALANG KUNIN TAS I-AVERAGE FOR DATA SAKA NA UNG SA APP
+
+
+ANALYTICS
+
+> behavior
+> survey
+  > BMI
+  > per category average
+
+  list view
+  > mbes response
+    View
+    > bmi
+    > average score per category
+    > full answers
+
+
+
+
+
+
+
+
+
+
+
+

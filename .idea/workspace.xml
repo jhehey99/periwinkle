@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed9f6034-9c17-4bd5-96f8-82aedc89e503" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="b51aed5e-e63a-43a3-ab83-706b7afc11a8" />
+    </checked>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_</find>
+      <find>$Message</find>
+      <find>$api</find>
+      <find>'</find>
+      <find>&gt;$</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$message</replace>
+      <replace>$response</replace>
+      <replace>&quot;</replace>
+      <replace>&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1RpxSkC6CfaSHsP5ISaOJyiR7bC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="da&#9;ACTION&#9;ActivateDatabaseToolWindow&#10;data&#9;ACTION&#9;ActivateDatabaseToolWindow&#10;database&#9;ACTION&#9;ActivateDatabaseToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sql/script.sql" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\periwinkle\api\services\mbes" />
+      <recent name="D:\xampp\htdocs\periwinkle\api\services\journal" />
+      <recent name="C:\xampp\htdocs\periwinkle\api\services\password" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\periwinkle\api\services\consultant" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.mbes.php">
+    <configuration name="ClientRepository.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/repo/ClientRepository.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="GetTestAccount.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/api/services/account/GetTestAccount.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="MbesRepository.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/repo/MbesRepository.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Register.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/api/services/consultant/Register.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="mbes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/repo/mbes.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.Register.php" />
+      <item itemvalue="PHP Script.GetTestAccount.php" />
+      <item itemvalue="PHP Script.MbesRepository.php" />
+      <item itemvalue="PHP Script.ClientRepository.php" />
+      <item itemvalue="PHP Script.mbes.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.mbes.php" />
+        <item itemvalue="PHP Script.ClientRepository.php" />
+        <item itemvalue="PHP Script.MbesRepository.php" />
+        <item itemvalue="PHP Script.GetTestAccount.php" />
+        <item itemvalue="PHP Script.Register.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed9f6034-9c17-4bd5-96f8-82aedc89e503" name="Default" comment="" />
+      <created>1534822412915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534822412915</updated>
+      <workItem from="1534822414728" duration="841000" />
+      <workItem from="1534823364941" duration="19749000" />
+      <workItem from="1535008075311" duration="4941000" />
+      <workItem from="1535087618793" duration="106000" />
+      <workItem from="1535286783136" duration="14554000" />
+      <workItem from="1535432043152" duration="10403000" />
+      <workItem from="1535542865872" duration="1777000" />
+      <workItem from="1535596089911" duration="21858000" />
+      <workItem from="1535696583117" duration="1215000" />
+      <workItem from="1535717040229" duration="10980000" />
+      <workItem from="1536502413145" duration="5484000" />
+      <workItem from="1536999790750" duration="859000" />
+      <workItem from="1537513966271" duration="373000" />
+      <workItem from="1537524529795" duration="1855000" />
+      <workItem from="1537730073538" duration="1948000" />
+      <workItem from="1537787475105" duration="9699000" />
+      <workItem from="1537872516270" duration="415000" />
+      <workItem from="1538135932358" duration="599000" />
+      <workItem from="1538400299276" duration="6572000" />
+      <workItem from="1540458503390" duration="1340000" />
+      <workItem from="1540791027218" duration="3010000" />
+      <workItem from="1540865265415" duration="4347000" />
+      <workItem from="1540968425670" duration="2753000" />
+      <workItem from="1541083205652" duration="1380000" />
+      <workItem from="1541128030345" duration="2557000" />
+      <workItem from="1541173646145" duration="204000" />
+      <workItem from="1541329927661" duration="2599000" />
+      <workItem from="1541368976625" duration="2705000" />
+      <workItem from="1541505552965" duration="7621000" />
+      <workItem from="1541564131347" duration="6877000" />
+      <workItem from="1541683480790" duration="3874000" />
+      <workItem from="1541816114447" duration="2330000" />
+      <workItem from="1541830308502" duration="599000" />
+      <workItem from="1541938528770" duration="5352000" />
+      <workItem from="1542022821429" duration="2885000" />
+      <workItem from="1542197716171" duration="2692000" />
+      <workItem from="1542242264824" duration="5545000" />
+      <workItem from="1542422562203" duration="8687000" />
+      <workItem from="1542678385252" duration="1212000" />
+      <workItem from="1542798663626" duration="1853000" />
+      <workItem from="1543032125045" duration="3108000" />
+      <workItem from="1543147550964" duration="4177000" />
+      <workItem from="1543229426287" duration="7329000" />
+      <workItem from="1543491853485" duration="2764000" />
+      <workItem from="1543586154144" duration="2444000" />
+      <workItem from="1557762996831" duration="2044000" />
+      <workItem from="1559481250554" duration="1047000" />
+      <workItem from="1559719710644" duration="5690000" />
+      <workItem from="1559823081323" duration="608000" />
+      <workItem from="1559847053244" duration="9843000" />
+      <workItem from="1559866009829" duration="593000" />
+      <workItem from="1559882997988" duration="3748000" />
+      <workItem from="1560017507050" duration="8822000" />
+      <workItem from="1560142260404" duration="1203000" />
+      <workItem from="1560337349769" duration="9096000" />
+      <workItem from="1560388660193" duration="2271000" />
+      <workItem from="1560402018840" duration="1105000" />
+      <workItem from="1560403842220" duration="2916000" />
+      <workItem from="1560881890302" duration="229000" />
+      <workItem from="1560958842095" duration="5150000" />
+      <workItem from="1560996698964" duration="1631000" />
+      <workItem from="1570377927736" duration="1956000" />
+      <workItem from="1570728209965" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
