@@ -3,13 +3,14 @@
 namespace src\models;
 
 /**
- * Class AccelerometerRecord
+ * Class SensorRecord
  * @package src\models
  */
-class AccelerometerRecord
+class SensorRecord
 {
     public $RecordId;
     public $ClientId;
+    public $RecordType; // 0-Piezo, 1-Acceleration
     public $Filename;
     public $StartTime;
     public $StopTime;
@@ -35,6 +36,7 @@ class AccelerometerRecord
         return
             [
                 $this->ClientId,
+                $this->RecordType,
                 $this->Filename,
                 $this->StartTime,
                 $this->StopTime,
