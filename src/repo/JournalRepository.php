@@ -39,8 +39,8 @@ class JournalRepository extends Repository
      */
     public function InsertJournalEntry(JournalEntry $entry) : bool
     {
-        $sql = "INSERT INTO journalentry(JournalClientId, Title, Body, DateTimeCreated, ImageFileName)
-                VALUES (?, ?, ?, ?, ?)";
+        $sql = "INSERT INTO journalentry(JournalClientId, Title, Body, DateTimeCreated)
+                VALUES (?, ?, ?, ?)";
 
         $this->prepare ($sql);
 

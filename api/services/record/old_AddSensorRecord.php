@@ -18,8 +18,20 @@ $decoded = JsonUtils::DecodeObject ($obj);
 
 $record = new SensorRecord($decoded);
 
+$dir = "";
+
+$Piezo = "0";
+$Acceleration = "1";
+
+
 //TODO: Single file nalang sya, "time,piezo,ax,ay,az" line format
-$file = "../../../files/records/" . $record->Filename;
+
+if($record->RecordType == $Piezo)
+	$dir = "../../../files/graphs/";
+else if ($record->RecordType == $Acceleration)
+	$dir = "../../../files/accel/";
+
+$file = $dir . $record->Filename;
 
 $repo = new SensorRecordRepository();
 

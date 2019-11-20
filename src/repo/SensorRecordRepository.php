@@ -25,8 +25,8 @@ class SensorRecordRepository extends Repository
 
     public function AddSensorRecord(SensorRecord $record) : bool
     {
-        $sql = "insert into sensorrecord(ClientId, RecordType, Filename, StartTime, StopTime)
-                values (?,?,?,?,?)";
+        $sql = "insert into sensorrecord(ClientId, Filename, StartTime, StopTime)
+                values (?,?,?,?)";
 
         $this->prepare ($sql);
 

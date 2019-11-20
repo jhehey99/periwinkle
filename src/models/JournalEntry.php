@@ -19,7 +19,6 @@ class JournalEntry
     public $Title;
     public $Body;
     public $DateTimeCreated;
-    public $ImageFileName;
 
     /**
      * Account constructor.
@@ -44,8 +43,7 @@ class JournalEntry
                 $this->JournalClientId,
                 $this->Title,
                 $this->Body,
-                $this->DateTimeCreated,
-                $this->ImageFileName
+                $this->DateTimeCreated
             ];
     }
 }

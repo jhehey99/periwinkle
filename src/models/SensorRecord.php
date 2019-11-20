@@ -10,7 +10,6 @@ class SensorRecord
 {
     public $RecordId;
     public $ClientId;
-    public $RecordType; // 0-Piezo, 1-Acceleration
     public $Filename;
     public $StartTime;
     public $StopTime;
@@ -36,7 +35,6 @@ class SensorRecord
         return
             [
                 $this->ClientId,
-                $this->RecordType,
                 $this->Filename,
                 $this->StartTime,
                 $this->StopTime,
